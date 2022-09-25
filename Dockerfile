@@ -8,4 +8,4 @@ USER node
 
 # RUN npm i react react-dom
 
-CMD npm run dev
+CMD npm start

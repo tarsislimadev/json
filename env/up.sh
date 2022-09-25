@@ -1,1 +1,1 @@
-docker-compose -f docker-compose.yaml up --remove-orphans --force-recreate --build 
+docker run -d --name json -v $(pwd):/app -w /app --network host node:lts-alpine npm start 
