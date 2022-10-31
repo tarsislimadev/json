@@ -10,6 +10,14 @@ Acesse o site  em [json-brtmvdl.vercel.app](https://json-brtmvdl.vercel.app/)
 
 [React](https://reactjs.org/)
 
+## How to
+
+```
+bash env/pull.sh
+
+bash env/up.sh
+```
+
 ## License
 
 [MIT](./LICENSE)
