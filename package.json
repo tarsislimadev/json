@@ -1,0 +1,17 @@
+{
+  "name": "json",
+  "version": "2026.05.10",
+  "scripts": {
+    "start": "npx http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarsislimadev/json.git"
+  },
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tarsislimadev/json/issues"
+  },
+  "homepage": "https://github.com/tarsislimadev/json#readme"
+}

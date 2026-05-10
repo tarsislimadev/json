@@ -1,0 +1,18 @@
+body {
+  font-family: monospace;
+}
+
+h1 {
+  text-align: center;
+}
+
+textarea {
+  font-family: inherit;
+  resize: vertical;
+  width: 100%;
+}
+
+#app {
+  margin: 0 auto;
+  width: 800px;
+}
